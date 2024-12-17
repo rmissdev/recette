@@ -1,0 +1,38 @@
+body {
+  background-color: #f3e5d8;
+}
+
+#container {
+  width: 50%;
+  margin: 10px auto;
+  background-color: white;
+  border: 1px solid white;
+  padding: 15px;
+  border-radius: 10px;
+  color: #817f7e;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+#preparation {
+  background-color: #f1dae9;
+  padding-top: 6px;
+  padding-left: 10px;
+  border-radius: 10px;
+  padding-bottom: 6px;
+}
+
+#preparation h4 {
+  color: #864a64;
+}
+
+#preparation li {
+  margin-bottom: 6px;
+}
+
+.gras {
+  font-weight: bold;
+}
